@@ -5,6 +5,9 @@ main {
   height: 100vh;
   align-items: center;
   width: 100%;
+  background-image: url("https://mydukaan.io/_next/static/media/banner-home-main.ebd707dd321420dd97b2e08e0aa39020.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .hero-left {
